@@ -5,17 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b8958d5-2474-4e19-834a-09f0cb0b6d1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/Função/fun10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/Função/fun8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/Função/fun9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/Manipulação_de_Arquivos/Biblioteca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/Manipulação_de_Arquivos/ar1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/Manipulação_de_Arquivos/ar2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/Manipulação_de_Arquivos/arq.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/Manipulação_de_Arquivos/registro.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dominio-digital-4.0-/Função/Biblioteca.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/Função/Biblioteca.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dominio-digital-4.0-/Função/fun7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/Função/fun7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dominio-digital-4.0-/POO/Biblioteca.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/POO/Biblioteca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dominio-digital-4.0-/POO/exeTriatleta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dominio-digital-4.0-/POO/exeTriatleta.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,7 +44,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Biblioteca.executor": "Run",
+    "Python.ar1.executor": "Run",
+    "Python.aula1.executor": "Run",
+    "Python.exeTriatleta.executor": "Run",
     "Python.fun10.executor": "Run",
+    "Python.manipulação.executor": "Run",
     "git-widget-placeholder": "main"
   }
 }]]></component>
